@@ -1,10 +1,10 @@
-#Election_Analysis
+# Election_Analysis
 
-  1. Overview of Election Audit: Explain the purpose of this election audit analysis.
+  ## 1. Overview of Election Audit: Explain the purpose of this election audit analysis.
 
-  2. Election-Audit Results: 
+  ## 2. Election-Audit Results: 
 
-    - How many votes were cast in this congressional election?
+    ### - How many votes were cast in this congressional election?
       There were 369,711 votes cast in this congressional election for the three counties in this data collection: 
       Denver, Arapahoe, and Jefferson. 
       
@@ -12,7 +12,7 @@
       
       ADD IMAGE TO SUPPORT CLAIM
 
-    - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+    ### - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
       From the election results, we can count that Jefferson had a voter turnout of 38,855; Denver had 306,055; and
       Arapahoe had 24,801. This was tracked by the amount of times the county name appeared on the election results
       csv provided. Taking the number of votes cast in each county and dividing it by the total voters and then
@@ -22,13 +22,13 @@
       
       ADD IMAGE HERE
       
-    - Which county had the largest number of votes?
+    ### - Which county had the largest number of votes?
       Denver had the largest number of votes coming in at 305,055. This was tracked using an if-then statement shown
       below and starts on line 118 of the code.
       
       ADD IMAGE HERE
       
-    - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+    ### - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
       There were 369,711 votes cast in this data set and three candidates were in the election: Charles Casper
       Stockham, Diana DeGette, and Raymon Anthony Doane. The votes each candidate received respecfully were 85,213;
       271,892; and 11,606. This was tracked the same way the counties were tracked, using a counter to tally
@@ -41,11 +41,11 @@
       
       ADD IMAGE HERE
 
-    - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+    ### - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
       Diana DeGette won the election with  272,892 votes. Diana collected 73.8% of the total votes cast in this
       election. This data was determined the same way the largest voting county was tabulated, using if-then
       conditionals demonstrated below.
       
       ADD IMAGE HERE
 
-  3. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some     modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+  ## 3. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some     modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
