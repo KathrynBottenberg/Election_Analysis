@@ -30,7 +30,7 @@ Diana DeGette won the election with  272,892 votes. Diana collected 73.8% of the
       
 ![Image](winning_candidate.png)
 ![Image](code_for_winning_candidate.png)
-## 3. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+## 3. Election-Audit Summary: 
 The script can be in other elections by making some minor changes. 
 1. One can change the file_to_upload on line 9 so it links to another csv with other election results for any other county
 2. One can add script to tabulate all counties winning candidate, you could then determine the winner of the state.
