@@ -1,16 +1,18 @@
-# Election_Analysis
-#Overview of Election Audit: Explain the purpose of this election audit analysis.
+**Election_Analysis
 
-#Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+  Overview of Election Audit: Explain the purpose of this election audit analysis.
 
-#How many votes were cast in this congressional election?
+  Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
-#Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  1. How many votes were cast in this congressional election?
+      **There were 369,711 votes cast in this congressional election for the three counties in this data collection: Denver, Arapahoe, and Jefferson.
 
-#Which county had the largest number of votes?
+  Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-#Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+  Which county had the largest number of votes?
 
-#Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+  Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-#Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+  Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+  Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some     modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
