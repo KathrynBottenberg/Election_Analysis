@@ -5,7 +5,7 @@ A precinct in Colorado has held an election to determine their next United State
 
 ## 2. Election-Audit Results: 
    ### - How many votes were cast in this congressional election?
-There were 369,711 votes cast in this congressional election for the three counties in this data collection: Denver, Arapahoe, and Jefferson. This  data is tracked through the coding as well as confirmed in the csv file.
+There were 369,711 votes cast in this congressional election for the three counties in this data collection: Denver, Arapahoe, and  Jefferson. This  data is tracked through the coding as well as confirmed in the csv file.
 
 ![Image](total_votes.png)
 ![Image](excel_of_total_votes.png)
