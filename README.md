@@ -10,11 +10,12 @@ There were 369,711 votes cast in this congressional election for the three count
    ### - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 From the election results, we can count that Jefferson had a voter turnout of 38,855; Denver had 306,055; and Arapahoe had 24,801. This was tracked by the amount of times the county name appeared on the election results csv provided. Taking the number of votes cast in each county and dividing it by the total voters and then multiplying the number by 100, we can see the percentage turnout for each county. From the image below, we can see Denver had the highest percentage of voter turnout at 82.8%, followed by Jefferson at 10.5% and then Arapahoe had only 6.7% of the voter turnout of the three counties.
     
-![Image](winning_county.png)
+![image](county_votes.png)
       
    ### - Which county had the largest number of votes?
 Denver had the largest number of votes coming in at 305,055. This was tracked using an if-then statement shown below and starts on line 118 of the code.
       
+![Image](winning_county.png)
 ![Image](code_for_winning_county.png)
       
    ### - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
@@ -26,5 +27,5 @@ There were 369,711 votes cast in this data set and three candidates were in the 
 Diana DeGette won the election with  272,892 votes. Diana collected 73.8% of the total votes cast in this election. This data was determined the same way the largest voting county was tabulated, using if-then conditionals demonstrated below and starts on line 154 of the code.
       
 ![Image](winning_candidate.png)
-![Image](code-for-winning-candidate.png)
+![Image](code_for_winning_candidate.png)
 ## 3. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some     modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
