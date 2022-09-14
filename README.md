@@ -1,26 +1,18 @@
-# Election_Analysis
+# Election Analysis
 
   ## 1. Overview of Election Audit: Explain the purpose of this election audit analysis.
 
   ## 2. Election-Audit Results: 
-
-    ### - How many votes were cast in this congressional election?
-      There were 369,711 votes cast in this congressional election for the three counties in this data collection: 
-      Denver, Arapahoe, and Jefferson. 
-      
-      This  data is tracked through the coding as well as confirmed in the csv file.
-      
-      ADD IMAGE TO SUPPORT CLAIM
-
-    ### - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-      From the election results, we can count that Jefferson had a voter turnout of 38,855; Denver had 306,055; and
-      Arapahoe had 24,801. This was tracked by the amount of times the county name appeared on the election results
-      csv provided. Taking the number of votes cast in each county and dividing it by the total voters and then
-      multiplying the number by 100, we can see the percentage turnout for each county. From the image below, we can
-      see Denver had the highest percentage of voter turnout at 82.8%, followed by Jefferson at 10.5% and then 
-      Arapahoe had only 6.7% of the voter turnout of the three counties.
-      
-      ADD IMAGE HERE
+  - How many votes were cast in this congressional election?
+    - There were 369,711 votes cast in this congressional election for the three counties in this data collection: 
+    Denver, Arapahoe, and Jefferson. 
+    This  data is tracked through the coding as well as confirmed in the csv file.
+    
+    ADD IMAGE TO SUPPORT CLAIM
+  - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+    - From the election results, we can count that Jefferson had a voter turnout of 38,855; Denver had 306,055; and Arapahoe had 24,801. This was tracked by the amount of times the county name appeared on the election results csv provided. Taking the number of votes cast in each county and dividing it by the total voters and then multiplying the number by 100, we can see the percentage turnout for each county. From the image below, we can see Denver had the highest percentage of voter turnout at 82.8%, followed by Jefferson at 10.5% and then Arapahoe had only 6.7% of the voter turnout of the three counties.
+    
+    ADD IMAGE HERE
       
     ### - Which county had the largest number of votes?
       Denver had the largest number of votes coming in at 305,055. This was tracked using an if-then statement shown
