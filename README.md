@@ -15,15 +15,15 @@ From the election results, we can count that Jefferson had a voter turnout of 38
    ### - Which county had the largest number of votes?
 Denver had the largest number of votes coming in at 305,055. This was tracked using an if-then statement shown below and starts on line 118 of the code.
       
-      ADD IMAGE HERE
+ADD IMAGE HERE
       
    ### - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 There were 369,711 votes cast in this data set and three candidates were in the election: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. The votes each candidate received respecfully were 85,213; 271,892; and 11,606. This was tracked the same way the counties were tracked, using a counter to tally everytime the candiates name appeared in the candidate column. Similarly, the percentage of votes for each candiate could be calculated just like the county percentage; Taking the number of votes cast for each candidate and dividing it by the total voters and then multiplying the number by 100. From this formula, we can see the percentage turnout for each candidate. From the image below, we can see Diana DeGette had the highest percentage of votes at 73.8%, followed by Charles Casper Stockham at 23.0% and then Raymon Anthony Doane had only 3.1% of the votes.
       
-      ADD IMAGE HERE
+ADD IMAGE HERE
 
    ### - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-Diana DeGette won the election with  272,892 votes. Diana collected 73.8% of the total votes cast in this election. This data was determined the same way the largest voting county was tabulated, using if-then conditionals demonstrated below.
+Diana DeGette won the election with  272,892 votes. Diana collected 73.8% of the total votes cast in this election. This data was determined the same way the largest voting county was tabulated, using if-then conditionals demonstrated below and starts on line 154 of the code.
       
-      ADD IMAGE HERE
+ADD IMAGE HERE
 ## 3. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some     modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
