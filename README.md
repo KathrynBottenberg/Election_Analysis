@@ -1,6 +1,7 @@
 # Election Analysis
 
 ## 1. Overview of Election Audit: Explain the purpose of this election audit analysis.
+A precinct in Colorado has held an election to determine their next United States congressman. The election results have been collected and we are tasked with auditing the data collected to determine the voter turnout, the total votes for each county in the precint, determine which countyh had the largest voter turnout, calculate the amount of votes each candidate received, and then determine the winner of the election in that precinct based on popular vote.
 
 ## 2. Election-Audit Results: 
    ### - How many votes were cast in this congressional election?
@@ -29,4 +30,7 @@ Diana DeGette won the election with  272,892 votes. Diana collected 73.8% of the
       
 ![Image](winning_candidate.png)
 ![Image](code_for_winning_candidate.png)
-## 3. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some     modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+## 3. Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+The script can be in other elections by making some minor changes. 
+1. One can change the file_to_upload on line 9 so it links to another csv with other election results for any other county
+2. One can add script to tabulate all counties winning candidate, you could then determine the winner of the state.
